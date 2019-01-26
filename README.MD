@@ -1,0 +1,1 @@
+This is a studing project based on mozilla tutorials
